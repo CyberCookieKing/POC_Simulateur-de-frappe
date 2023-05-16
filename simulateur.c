@@ -1,7 +1,7 @@
 /******************************************************************************/
 /*                                                                            */
-/*                              Simulateur de frappe                          */
-/*                             Auteur: CyberCookieKing                        */
+/*                            Simulateur de frappe                            */
+/*                           Auteur: CyberCookieKing                          */
 /*                                                                            */
 /* But:                                                                       */
 /*  Simule la frappe de touches à l'aide de la bibliothèque X11               */
